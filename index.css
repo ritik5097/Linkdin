@@ -1303,7 +1303,7 @@ color: #000000be;
 
   /* page-10*/
   .main-10{
-    background-image: url(/image-6.png);
+    background-image: url(./image-6.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 800px;
